@@ -1,0 +1,15 @@
+../design/core/pkg.sv
+../design/core/interface.sv
+../design/core/PC.v
+../design/core/Imm_extender.sv
+../design/core/PC_update.v
+../design/core/ALU.v
+../design/core/mux.v
+../design/core/execute.v
+../design/core/register_file.v
+../design/core/Load_Store_unit.v
+../design/core/Instruction_reg.sv
+../design/core/RV_32I.sv
+./memory/memory.v
+../design/soc/soc_top.sv
+tb_top.sv
